@@ -1,7 +1,7 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
  * Created by: Brendan O'Rourke
- * Created on: Sep 2025
+ * Created on: oct 2025
  * This program is a traffic light neppixel
 */
 // variables
